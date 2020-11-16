@@ -15,5 +15,11 @@ This test is designed for a take-home test scenario.
 For more details on the test and the results obtained on the analysis on the test and student feedback, refer to this paper: 
 Jesin James, Nasser Giacaman, "Replacing in-class tests with take-home practical tests: focussing on student learning, plagiarism and reproducibility", in proc. Annual Conference of the Australasian Association for Engineering Education (AAEE2020), Australia, 2020 (Accepted for publication.)
 
-If you use the database or this approach for a practical take-home test please also cite the same publication.
+If this approach for a practical take-home test please also cite the same publication.
+
+A small subset of the database JLCorpus is given in this Gituhub repo.
+The entire database is available for download at: https://www.kaggle.com/tli725/jl-corpus
+
+If you are using the database for this assessment or for other projects, please cite: 
+James, J., Tian, L. and Watson, C.I., 2018, September. An Open Source Emotional Speech Corpus for Human Robot Interaction Applications. In INTERSPEECH (pp. 2768-2772).
 
