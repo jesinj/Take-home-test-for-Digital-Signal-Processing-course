@@ -8,9 +8,12 @@ This free-choice encourages learner autonomy by requiring students to take the f
 This effectively eliminates the opportunity for plagiarism, as two or more students working on the same subset will only raise immediate suspicion of potential plagiarism.
 Such an approach avoids the necessity of invigilation, which is beneficial due to restrictions imposed by Covid-19.   
 The take-home test gives the educator a chance to evaluate practical skills taught in the course (like the implementation of signal processing), that would not normally be possible in an in-class paper-based test.  
+
 The questions given were aimed towards higher-order thinking, focussing more on applying the theory learned in class.  
 To assist other educators in producing similar assessments for their courses, the speech signal database has been open-sourced along with the resources needed for this test.
 This test is designed for a take-home test scenario. 
+
+A set of questions that can be used for a practical take-home test is given in this repository.
 
 For more details on the test and the results obtained on the analysis on the test and student feedback, refer to this paper: 
 Jesin James, Nasser Giacaman, "Replacing in-class tests with take-home practical tests: focussing on student learning, plagiarism and reproducibility", in proc. Annual Conference of the Australasian Association for Engineering Education (AAEE2020), Australia, 2020 (Accepted for publication.)
