@@ -1,4 +1,4 @@
-# Take-home-test-for-Digital-Signal-Processing-course
+# Practical Take home test for Digital Signal Processing #course
 This repository contains the the resources and test questions for a Digital Signal Processing course developed in 2020.   
 
 A take-home practical test was designed as an alternative to a traditional in-class paper-based test as assessments could no longer be conducted in an invigilated environment due to Covid-19 lockdowns.
@@ -18,7 +18,7 @@ A set of questions that can be used for a practical take-home test is given in t
 For more details on the test and the results obtained on the analysis on the test and student feedback, refer to this paper: 
 Jesin James, Nasser Giacaman, "Replacing in-class tests with take-home practical tests: focussing on student learning, plagiarism and reproducibility", in proc. Annual Conference of the Australasian Association for Engineering Education (AAEE2020), Australia, 2020 (Accepted for publication.)
 
-If this approach for a practical take-home test please also cite the same publication.
+#If this approach for a practical take-home test please also cite the same publication.
 
 A small subset of the database JLCorpus is given in this Gituhub repo.
 The entire database is available for download at: https://www.kaggle.com/tli725/jl-corpus
